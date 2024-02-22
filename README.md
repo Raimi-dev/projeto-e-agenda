@@ -1,1 +1,1 @@
-Esses são os arquivos criados até o momento desse projeto, criado em Agosto de 2023, precisa ser feito um troubleshoot de uma falha nos plug-ins do Maven e mais codado no Netbeans, já foram feitos outros troubleshoots antes.
+Esses são os arquivos criados até o momento desse projeto, criado em Agosto de 2023, precisa ser feito um troubleshoot de uma falha nos plug-ins do Maven e mais codado no Netbeans, já foram feitos outros troubleshoots antes registrados em print postados no LinkedIn.
